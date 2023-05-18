@@ -20,7 +20,7 @@ https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000DmgtuUA
 ![Component Structure](images/HomeChildKanban-git.png)
 
 <div>
-    <a href="https://githubsfdeploy.herokuapp.com?owner=mordechaif&repo=FileExplorer">
+    <a href="https://githubsfdeploy.herokuapp.com?owner=mordechaif&repo=Home-Child-Kanban">
         <img alt="Deploy to Salesforce"
         src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
     </a>
